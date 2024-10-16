@@ -1,10 +1,10 @@
 # Wojciech Zdziebkowski
 
-👋 Hi there! I'm Wojciech Zdziebkowski, a passionate Data Analyst/Engineer with extensive experience in data analysis, manipulation and visualization.
+👋 Hi there! I'm Wojciech Zdziebkowski, a passionate Data Engineer with extensive experience in data manipulation, analysis and visualization.
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, SQL, Scala
-- **Tools & Platforms:** Power BI, GitHub, MS Excel (Power Query, Power Pivot)
+- **Tools & Platforms:** PySpark, Power BI, Git, MS Excel (Power Query, Power Pivot)
 
 ## 📂 Projects
 Here are a few notable projects I've worked on:
@@ -19,13 +19,13 @@ A Power BI dashboard to analyze Strava activities, featuring a heatmap of person
 
 ## 📈 Professional Background
 **Current Role:**  
-Financial Data Analyst at Mahle Behr Ostrów Wielkopolski since February 2024. I focus on portfolio analysis, building data pipelines, and data visualizations. 
+Financial Data Analyst\Engineer at Mahle Behr Ostrów Wielkopolski since February 2024. I focus on portfolio analysis, building data pipelines, and data visualizations. 
 
 ## 🎯 Goals 
-Master Scala, Spark, Snowflake, and Airflow to enhance my data engineering capabilities.
+My goal is to become a skilled Big Data Engineer, leveraging advanced tools and technologies to process and analyze large-scale datasets. I strive to continuously learn, contribute to impactful projects, and create efficient data-driven solutions.
 
 ## 💡 Interests
-**Tech Interests:** Data analysis, automation, data engineering, and data visualization.
+**Tech Interests:** Data engineering, automation, data analyzing, and data visualization.
 
 **Hobbies:** Playing board games, watching speedway, cycling country loops, cooking tasty meals, gardening.
 
