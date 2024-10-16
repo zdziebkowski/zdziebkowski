@@ -3,7 +3,7 @@
 👋 Hi there! I'm Wojciech Zdziebkowski, a passionate Data Analyst/Engineer with extensive experience in data analysis, manipulation and visualization.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, Scala
 - **Tools & Platforms:** Power BI, GitHub, MS Excel (Power Query, Power Pivot)
 
 ## 📂 Projects
